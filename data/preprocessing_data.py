@@ -1,6 +1,5 @@
 import pandas as pd
 import unicodedata
-import os
 import re
 import warnings
 warnings.filterwarnings('ignore')
@@ -31,22 +30,16 @@ def vietnamese_tokenize(sentence):
     return word_tokenize(sentence, format="text")
 
 def load_data(path):
-    if os.path.isfile(path):
-        data = pd.read_csv(path)
-        data['sentence'] = data['sentence'].apply(to_lowercase).apply(normalize_unicode)
-        return data
-    else:
-        raise FileNotFoundError(f"The file {path} does not exist.")
+    data = pd.read_csv(path, sep=';')
+    print(data.head())
+    data['sentence'] = data['sentence'].apply(to_lowercase).apply(normalize_unicode)
+    return data
 
-def load_stopwords(path):
-    if os.path.isfile(path):
-        with open(path, 'r', encoding='utf-8') as file:
-            stopwords = [normalize_unicode(line.strip().lower()) for line in file.readlines() if line.strip()]
-        return list(stopwords)
-    else:
-        raise FileNotFoundError(f"The file {path} does not exist.")
+def load_stopwords():
+    stopwords = pd.read_csv("https://raw.githubusercontent.com/stopwords/vietnamese-stopwords/refs/heads/master/vietnamese-stopwords.txt", sep='\r', header=None)
+    return stopwords.values.flatten().tolist()
 
-vietnamese_stopwords = load_stopwords('data/vietnamese-stopwords.txt')
+vietnamese_stopwords = load_stopwords()
 df = load_data('data/intents.csv')
 
 if __name__ == "__main__":

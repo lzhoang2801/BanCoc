@@ -1,121 +1,121 @@
-sentence,intent
-Bạn khỏe không?,chao_hoi
-Tôi có thể hỏi về lịch học không?,chao_hoi
-Bạn có thể giúp tôi một việc được không?,chao_hoi
-Hi! Tôi cần tra cứu thông tin học tập.,chao_hoi
-Ê! Cho hỏi chút về điểm số.,chao_hoi
-Xin chào! Lịch thi môn CSD203 là khi nào?,chao_hoi
-Hey! Cho tôi xem lịch học của tuần tới.,chao_hoi
-Chào buổi trưa. Bạn là ai vậy?,chao_hoi
-Hello! Tôi cần thông tin môn học AIG202c.,chao_hoi
-Xin chào bạn cóc!,chao_hoi
-Bạn có thông tin gì mới không?,chao_hoi
-Tôi có thể bắt đầu bằng câu hỏi nào?,chao_hoi
-Tôi có thể hỏi về thời khóa biểu không?,chao_hoi
-Chào buổi chiều. Mong bạn hỗ trợ tôi.,chao_hoi
-Lịch học môn MAE101 tuần này là gì?,lich_hoc
-Cho tôi xem thời khóa biểu môn Discrete mathematics (MAD101) trong học kỳ này.,lich_hoc
-Môn PFP191 học vào thứ mấy?,lich_hoc
-Thời gian và địa điểm học môn Introduction to Computer Science (CSI106) là khi nào?,lich_hoc
-Lịch học của tôi ngày mai bắt đầu lúc mấy giờ?,lich_hoc
-Tôi muốn xem lịch học chi tiết của môn DBI202.,lich_hoc
-Cho tôi biết phòng học của môn CSD203.,lich_hoc
-Khi nào môn SSL101c bắt đầu học?,lich_hoc
-Cập nhật lịch học các môn học chung của tôi.,lich_hoc
-Lịch học buổi sáng của tôi trong tuần 2.,lich_hoc
-Thời khóa biểu của tôi có môn nào học online không?,lich_hoc
-Lớp học môn AIG202c có phải là thứ 6 không?,lich_hoc
-Tôi muốn đăng ký thêm môn học nào phù hợp với lịch của tôi?,lich_hoc
-Cho tôi biết giảng viên của môn AIL303m.,lich_hoc
-Lịch học môn SSG104 có thay đổi không?,lich_hoc
-Có lịch thi cuối kỳ môn Data Structures and Algorithm with Python (CSD203) chưa?,lich_thi
-Lịch thi PE môn PFP191 là ngày nào?,lich_thi
-Địa điểm thi môn Mathematics for Engineering (MAE101) là ở đâu?,lich_thi
-Ngày thi của môn Học máy (AIL303m) là thứ mấy?,lich_thi
-Cho tôi xem lịch thi môn SWE201c.,lich_thi
-Môn nào tôi cần đăng ký thi lại?,lich_thi
-Thời gian làm bài thi FE môn CEA201 là bao lâu?,lich_thi
-Tôi muốn kiểm tra lịch thi.,lich_thi
-Lịch thi môn tiếng Anh TRS601 đã có chưa?,lich_thi
-Tôi cần xem lại lịch thi của học kỳ trước.,lich_thi
-Lịch thi môn JPD113 có vào cuối tuần không?,lich_thi
-Lịch thi cuối cùng của tôi trong kỳ này.,lich_thi
-Tôi còn bao nhiêu buổi điểm danh nữa mới bị cấm thi?,diem_danh
-Kiểm tra tình trạng điểm danh của tôi môn DBI202.,diem_danh
-Tôi bị nghỉ học mấy buổi rồi?,diem_danh
-Môn PFP191 tôi đã điểm danh hôm nay chưa?,diem_danh
-Tôi muốn xem lại lịch sử điểm danh của môn MAD101.,diem_danh
-Tình trạng điểm danh môn CSD203 của tôi có vấn đề gì không?,diem_danh
-Tôi đã vắng mặt bao nhiêu lần ở môn ITE303c?,diem_danh
-Làm sao để biết tôi đã được điểm danh hay chưa?,diem_danh
-Điểm danh trễ 10 phút có sao không?,diem_danh
-Tôi bị cấm thi do thiếu điểm danh phải làm sao?,diem_danh
-Điểm danh môn học nào được miễn trừ?,diem_danh
-Cho tôi xem thống kê điểm danh của tôi.,diem_danh
-Tôi quên điểm danh online môn DWP301c.,diem_danh
-Điểm môn Cơ sở dữ liệu DBI202 của tôi là bao nhiêu?,diem_so
-Cho tôi xem bảng điểm tổng kết học kỳ 1.,diem_so
-Điểm thành phần môn JPD113 được công bố chưa?,diem_so
-Điểm thi cuối kỳ môn Programming Fundamentals with Python (PFP191).,diem_so
-Tôi muốn phúc khảo điểm môn MAE101 được không?,diem_so
-Điểm GPA hiện tại của tôi là bao nhiêu?,diem_so
-Khi nào điểm môn SWE201c mới có?,diem_so
-Điểm môn Triết học Mác-Lênin (MLN111) của tôi có phải là 8.5 không?,diem_so
-Điểm trung bình tích lũy là bao nhiêu?,diem_so
-Điểm thi lại môn CSD203 của tôi.,diem_so
-Làm sao để xem chi tiết điểm từng cột của môn CEA201?,diem_so
-Điểm môn ITE303c có bị trượt không?,diem_so
-Tôi muốn xem kết quả học tập của các môn học chung.,diem_so
-Cần bao nhiêu điểm để qua môn Discrete mathematics (MAD101)?,diem_so
-Tôi muốn xem điểm môn AIG202c.,diem_so
-Điểm trung bình học kỳ 2 của tôi.,diem_so
-Giảng viên dạy môn Machine Learning (AIL303m) là ai?,thong_tin_mon_hoc
-Môn MAE101 có bao nhiêu tín chỉ?,thong_tin_mon_hoc
-Phòng học môn CSI106 ở đâu?,thong_tin_mon_hoc
-Điều kiện tiên quyết của môn DPL302m là gì?,thong_tin_mon_hoc
-Môn học nào là môn tự chọn trong Term 7?,thong_tin_mon_hoc
-Tôi muốn biết về môn AI Capstone Project (AIP491).,thong_tin_mon_hoc
-Thông tin về môn học Experiential Entrepreneurship 1 (EXE101).,thong_tin_mon_hoc
-Môn CEA201 học những gì?,thong_tin_mon_hoc
-Giảng viên môn ITE303c tên gì?,thong_tin_mon_hoc
-Môn VOV124 có mấy tín chỉ?,thong_tin_mon_hoc
-Nội dung môn học ENW493c.,thong_tin_mon_hoc
-Môn học nào có mã là DAT301m?,thong_tin_mon_hoc
-Tôi muốn tìm hiểu về môn học TMI101.,thong_tin_mon_hoc
-Tìm thông tin về môn học có mã `SWE201c`.,thong_tin_mon_hoc
-Môn học `REL301m` thuộc chuyên ngành nào?,thong_tin_mon_hoc
-Học phí môn Discrete mathematics (MAD101) là bao nhiêu?,hoc_phi
-Môn SWE201c bao nhiêu tiền một tín chỉ?,hoc_phi
-Hạn nộp học phí học kỳ này là khi nào?,hoc_phi
-Tổng học phí học kỳ 5 của tôi.,hoc_phi
-Số tiền học phí môn AI Capstone Project (AIP491) là bao nhiêu?,hoc_phi
-Học phí môn Data Structures and Algorithm with Python (CSD203).,hoc_phi
-Tôi muốn tra cứu học phí của môn học tự chọn.,hoc_phi
-Chi tiết học phí cho môn JPD113.,hoc_phi
-Cách thức thanh toán học phí.,hoc_phi
-Tôi có thể trả góp học phí không?,hoc_phi
-Tôi muốn xem bảng giá học phí theo số tín chỉ.,hoc_phi
-Chi phí học môn Programming Fundamentals with Python (PFP191).,hoc_phi
-Số tín chỉ của môn MAE101 là 3 thì học phí là bao nhiêu?,hoc_phi
-Thông tin về các khoản phí khác ngoài học phí.,hoc_phi
-Học phí môn học lại được tính như thế nào?,hoc_phi
-Tôi đã nộp đủ học phí cho kỳ này chưa?,hoc_phi
-Cảm ơn bạn rất nhiều vì thông tin hữu ích.,cam_on
-Cám ơn bạn đã giúp đỡ.,cam_on
-Tôi đã có được lịch học rồi.,cam_on
-Rất cảm ơn sự hỗ trợ của bạn.,cam_on
-Cảm ơn nhé!,cam_on
-Cảm ơn vì đã kiểm tra điểm cho tôi.,cam_on
-Tuyệt vời! Cảm ơn bạn.,cam_on
-Tôi thực sự cảm kích sự giúp đỡ này.,cam_on
-Cảm ơn vì đã cung cấp thông tin học phí.,cam_on
-Tôi sẽ liên hệ lại nếu có thắc mắc.,cam_on
-Bạn đã giải đáp thắc mắc của tôi.,cam_on
-Thành thật cảm ơn.,cam_on
-Cảm ơn về thông tin môn học.,cam_on
-Cảm ơn bạn đã cập nhật lịch thi.,cam_on
-Hẹn gặp lại sau nhé.,tam_biet
-Chào tạm biệt!,tam_biet
-Tạm biệt nhé!,tam_biet
-Hẹn gặp lại bạn vào tuần sau.,tam_biet
-Good bye bạn cóc.,tam_biet
+sentence;intent
+Bạn khỏe không?;chao_hoi
+Tôi có thể hỏi về lịch học không?;chao_hoi
+Bạn có thể giúp tôi một việc được không?;chao_hoi
+Hi! Tôi cần tra cứu thông tin học tập;chao_hoi
+Ê! Cho hỏi chút về điểm số;chao_hoi
+Xin chào! Lịch thi môn CSD203 là khi nào?;chao_hoi
+Hey! Cho tôi xem lịch học của tuần tới;chao_hoi
+Chào buổi trưa. Bạn là ai vậy?;chao_hoi
+Hello! Tôi cần thông tin môn học AIG202c;chao_hoi
+Xin chào bạn cóc!;chao_hoi
+Bạn có thông tin gì mới không?;chao_hoi
+Tôi có thể bắt đầu bằng câu hỏi nào?;chao_hoi
+Tôi có thể hỏi về thời khóa biểu không?;chao_hoi
+Chào buổi chiều. Mong bạn hỗ trợ tôi;chao_hoi
+Lịch học môn MAE101 tuần này là gì?;lich_hoc
+Cho tôi xem thời khóa biểu môn Discrete mathematics (MAD101) trong học kỳ này;lich_hoc
+Môn PFP191 học vào thứ mấy?;lich_hoc
+Thời gian và địa điểm học môn Introduction to Computer Science (CSI106) là khi nào?;lich_hoc
+Lịch học của tôi ngày mai bắt đầu lúc mấy giờ?;lich_hoc
+Tôi muốn xem lịch học chi tiết của môn DBI202;lich_hoc
+Cho tôi biết phòng học của môn CSD203;lich_hoc
+Khi nào môn SSL101c bắt đầu học?;lich_hoc
+Cập nhật lịch học các môn học chung của tôi;lich_hoc
+Lịch học buổi sáng của tôi trong tuần 2;lich_hoc
+Thời khóa biểu của tôi có môn nào học online không?;lich_hoc
+Lớp học môn AIG202c có phải là thứ 6 không?;lich_hoc
+Tôi muốn đăng ký thêm môn học nào phù hợp với lịch của tôi?;lich_hoc
+Cho tôi biết giảng viên của môn AIL303m;lich_hoc
+Lịch học môn SSG104 có thay đổi không?;lich_hoc
+Có lịch thi cuối kỳ môn Data Structures and Algorithm with Python (CSD203) chưa?;lich_thi
+Lịch thi PE môn PFP191 là ngày nào?;lich_thi
+Địa điểm thi môn Mathematics for Engineering (MAE101) là ở đâu?;lich_thi
+Ngày thi của môn Học máy (AIL303m) là thứ mấy?;lich_thi
+Cho tôi xem lịch thi môn SWE201c;lich_thi
+Môn nào tôi cần đăng ký thi lại?;lich_thi
+Thời gian làm bài thi FE môn CEA201 là bao lâu?;lich_thi
+Tôi muốn kiểm tra lịch thi;lich_thi
+Lịch thi môn tiếng Anh TRS601 đã có chưa?;lich_thi
+Tôi cần xem lại lịch thi của học kỳ trước;lich_thi
+Lịch thi môn JPD113 có vào cuối tuần không?;lich_thi
+Lịch thi cuối cùng của tôi trong kỳ này;lich_thi
+Tôi còn bao nhiêu buổi điểm danh nữa mới bị cấm thi?;diem_danh
+Kiểm tra tình trạng điểm danh của tôi môn DBI202;diem_danh
+Tôi bị nghỉ học mấy buổi rồi?;diem_danh
+Môn PFP191 tôi đã điểm danh hôm nay chưa?;diem_danh
+Tôi muốn xem lại lịch sử điểm danh của môn MAD101;diem_danh
+Tình trạng điểm danh môn CSD203 của tôi có vấn đề gì không?;diem_danh
+Tôi đã vắng mặt bao nhiêu lần ở môn ITE303c?;diem_danh
+Làm sao để biết tôi đã được điểm danh hay chưa?;diem_danh
+Điểm danh trễ 10 phút có sao không?;diem_danh
+Tôi bị cấm thi do thiếu điểm danh phải làm sao?;diem_danh
+Điểm danh môn học nào được miễn trừ?;diem_danh
+Cho tôi xem thống kê điểm danh của tôi;diem_danh
+Tôi quên điểm danh online môn DWP301c;diem_danh
+Điểm môn Cơ sở dữ liệu DBI202 của tôi là bao nhiêu?;diem_so
+Cho tôi xem bảng điểm tổng kết học kỳ 1;diem_so
+Điểm thành phần môn JPD113 được công bố chưa?;diem_so
+Điểm thi cuối kỳ môn Programming Fundamentals with Python (PFP191);diem_so
+Tôi muốn phúc khảo điểm môn MAE101 được không?;diem_so
+Điểm GPA hiện tại của tôi là bao nhiêu?;diem_so
+Khi nào điểm môn SWE201c mới có?;diem_so
+Điểm môn Triết học Mác-Lênin (MLN111) của tôi có phải là 8.5 không?;diem_so
+Điểm trung bình tích lũy là bao nhiêu?;diem_so
+Điểm thi lại môn CSD203 của tôi;diem_so
+Làm sao để xem chi tiết điểm từng cột của môn CEA201?;diem_so
+Điểm môn ITE303c có bị trượt không?;diem_so
+Tôi muốn xem kết quả học tập của các môn học chung;diem_so
+Cần bao nhiêu điểm để qua môn Discrete mathematics (MAD101)?;diem_so
+Tôi muốn xem điểm môn AIG202c;diem_so
+Điểm trung bình học kỳ 2 của tôi;diem_so
+Giảng viên dạy môn Machine Learning (AIL303m) là ai?;chuong_trinh_hoc
+Môn MAE101 có bao nhiêu tín chỉ?;chuong_trinh_hoc
+Phòng học môn CSI106 ở đâu?;chuong_trinh_hoc
+Điều kiện tiên quyết của môn DPL302m là gì?;chuong_trinh_hoc
+Môn học nào là môn tự chọn trong Term 7?;chuong_trinh_hoc
+Tôi muốn biết về môn AI Capstone Project (AIP491);chuong_trinh_hoc
+Thông tin về môn học Experiential Entrepreneurship 1 (EXE101);chuong_trinh_hoc
+Môn CEA201 học những gì?;chuong_trinh_hoc
+Giảng viên môn ITE303c tên gì?;chuong_trinh_hoc
+Môn VOV124 có mấy tín chỉ?;chuong_trinh_hoc
+Nội dung môn học ENW493c;chuong_trinh_hoc
+Môn học nào có mã là DAT301m?;chuong_trinh_hoc
+Tôi muốn tìm hiểu về môn học TMI101;chuong_trinh_hoc
+Tìm thông tin về môn học có mã `SWE201c`;chuong_trinh_hoc
+Môn học `REL301m` thuộc chuyên ngành nào?;chuong_trinh_hoc
+Học phí môn Discrete mathematics (MAD101) là bao nhiêu?;hoc_phi
+Môn SWE201c bao nhiêu tiền một tín chỉ?;hoc_phi
+Hạn nộp học phí học kỳ này là khi nào?;hoc_phi
+Tổng học phí học kỳ 5 của tôi;hoc_phi
+Số tiền học phí môn AI Capstone Project (AIP491) là bao nhiêu?;hoc_phi
+Học phí môn Data Structures and Algorithm with Python (CSD203);hoc_phi
+Tôi muốn tra cứu học phí của môn học tự chọn;hoc_phi
+Chi tiết học phí cho môn JPD113;hoc_phi
+Cách thức thanh toán học phí;hoc_phi
+Tôi có thể trả góp học phí không?;hoc_phi
+Tôi muốn xem bảng giá học phí theo số tín chỉ;hoc_phi
+Chi phí học môn Programming Fundamentals with Python (PFP191);hoc_phi
+Số tín chỉ của môn MAE101 là 3 thì học phí là bao nhiêu?;hoc_phi
+Thông tin về các khoản phí khác ngoài học phí;hoc_phi
+Học phí môn học lại được tính như thế nào?;hoc_phi
+Tôi đã nộp đủ học phí cho kỳ này chưa?;hoc_phi
+Cảm ơn bạn rất nhiều vì thông tin hữu ích;cam_on
+Cám ơn bạn đã giúp đỡ;cam_on
+Tôi đã có được lịch học rồi;cam_on
+Rất cảm ơn sự hỗ trợ của bạn;cam_on
+Cảm ơn nhé!;cam_on
+Cảm ơn vì đã kiểm tra điểm cho tôi;cam_on
+Tuyệt vời! Cảm ơn bạn;cam_on
+Tôi thực sự cảm kích sự giúp đỡ này;cam_on
+Cảm ơn vì đã cung cấp thông tin học phí;cam_on
+Tôi sẽ liên hệ lại nếu có thắc mắc;cam_on
+Bạn đã giải đáp thắc mắc của tôi;cam_on
+Thành thật cảm ơn;cam_on
+Cảm ơn về thông tin môn học;cam_on
+Cảm ơn bạn đã cập nhật lịch thi;cam_on
+Hẹn gặp lại sau nhé;tam_biet
+Chào tạm biệt!;tam_biet
+Tạm biệt nhé!;tam_biet
+Hẹn gặp lại bạn vào tuần sau;tam_biet
+Good bye bạn cóc;tam_biet
