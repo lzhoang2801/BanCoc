@@ -1,121 +1,603 @@
 sentence;intent
-Bạn khỏe không?;chao_hoi
-Tôi có thể hỏi về lịch học không?;chao_hoi
-Bạn có thể giúp tôi một việc được không?;chao_hoi
-Hi! Tôi cần tra cứu thông tin học tập;chao_hoi
-Ê! Cho hỏi chút về điểm số;chao_hoi
-Xin chào! Lịch thi môn CSD203 là khi nào?;chao_hoi
-Hey! Cho tôi xem lịch học của tuần tới;chao_hoi
-Chào buổi trưa. Bạn là ai vậy?;chao_hoi
-Hello! Tôi cần thông tin môn học AIG202c;chao_hoi
-Xin chào bạn cóc!;chao_hoi
-Bạn có thông tin gì mới không?;chao_hoi
-Tôi có thể bắt đầu bằng câu hỏi nào?;chao_hoi
-Tôi có thể hỏi về thời khóa biểu không?;chao_hoi
-Chào buổi chiều. Mong bạn hỗ trợ tôi;chao_hoi
-Lịch học môn MAE101 tuần này là gì?;lich_hoc
-Cho tôi xem thời khóa biểu môn Discrete mathematics (MAD101) trong học kỳ này;lich_hoc
-Môn PFP191 học vào thứ mấy?;lich_hoc
-Thời gian và địa điểm học môn Introduction to Computer Science (CSI106) là khi nào?;lich_hoc
-Lịch học của tôi ngày mai bắt đầu lúc mấy giờ?;lich_hoc
-Tôi muốn xem lịch học chi tiết của môn DBI202;lich_hoc
-Cho tôi biết phòng học của môn CSD203;lich_hoc
-Khi nào môn SSL101c bắt đầu học?;lich_hoc
-Cập nhật lịch học các môn học chung của tôi;lich_hoc
-Lịch học buổi sáng của tôi trong tuần 2;lich_hoc
-Thời khóa biểu của tôi có môn nào học online không?;lich_hoc
-Lớp học môn AIG202c có phải là thứ 6 không?;lich_hoc
-Tôi muốn đăng ký thêm môn học nào phù hợp với lịch của tôi?;lich_hoc
-Cho tôi biết giảng viên của môn AIL303m;lich_hoc
-Lịch học môn SSG104 có thay đổi không?;lich_hoc
-Có lịch thi cuối kỳ môn Data Structures and Algorithm with Python (CSD203) chưa?;lich_thi
-Lịch thi PE môn PFP191 là ngày nào?;lich_thi
-Địa điểm thi môn Mathematics for Engineering (MAE101) là ở đâu?;lich_thi
-Ngày thi của môn Học máy (AIL303m) là thứ mấy?;lich_thi
-Cho tôi xem lịch thi môn SWE201c;lich_thi
-Môn nào tôi cần đăng ký thi lại?;lich_thi
-Thời gian làm bài thi FE môn CEA201 là bao lâu?;lich_thi
-Tôi muốn kiểm tra lịch thi;lich_thi
-Lịch thi môn tiếng Anh TRS601 đã có chưa?;lich_thi
-Tôi cần xem lại lịch thi của học kỳ trước;lich_thi
-Lịch thi môn JPD113 có vào cuối tuần không?;lich_thi
-Lịch thi cuối cùng của tôi trong kỳ này;lich_thi
-Tôi còn bao nhiêu buổi điểm danh nữa mới bị cấm thi?;diem_danh
-Kiểm tra tình trạng điểm danh của tôi môn DBI202;diem_danh
-Tôi bị nghỉ học mấy buổi rồi?;diem_danh
-Môn PFP191 tôi đã điểm danh hôm nay chưa?;diem_danh
-Tôi muốn xem lại lịch sử điểm danh của môn MAD101;diem_danh
-Tình trạng điểm danh môn CSD203 của tôi có vấn đề gì không?;diem_danh
-Tôi đã vắng mặt bao nhiêu lần ở môn ITE303c?;diem_danh
-Làm sao để biết tôi đã được điểm danh hay chưa?;diem_danh
-Điểm danh trễ 10 phút có sao không?;diem_danh
-Tôi bị cấm thi do thiếu điểm danh phải làm sao?;diem_danh
-Điểm danh môn học nào được miễn trừ?;diem_danh
-Cho tôi xem thống kê điểm danh của tôi;diem_danh
-Tôi quên điểm danh online môn DWP301c;diem_danh
-Điểm môn Cơ sở dữ liệu DBI202 của tôi là bao nhiêu?;diem_so
-Cho tôi xem bảng điểm tổng kết học kỳ 1;diem_so
-Điểm thành phần môn JPD113 được công bố chưa?;diem_so
-Điểm thi cuối kỳ môn Programming Fundamentals with Python (PFP191);diem_so
-Tôi muốn phúc khảo điểm môn MAE101 được không?;diem_so
-Điểm GPA hiện tại của tôi là bao nhiêu?;diem_so
-Khi nào điểm môn SWE201c mới có?;diem_so
-Điểm môn Triết học Mác-Lênin (MLN111) của tôi có phải là 8.5 không?;diem_so
-Điểm trung bình tích lũy là bao nhiêu?;diem_so
-Điểm thi lại môn CSD203 của tôi;diem_so
-Làm sao để xem chi tiết điểm từng cột của môn CEA201?;diem_so
-Điểm môn ITE303c có bị trượt không?;diem_so
-Tôi muốn xem kết quả học tập của các môn học chung;diem_so
-Cần bao nhiêu điểm để qua môn Discrete mathematics (MAD101)?;diem_so
-Tôi muốn xem điểm môn AIG202c;diem_so
-Điểm trung bình học kỳ 2 của tôi;diem_so
-Giảng viên dạy môn Machine Learning (AIL303m) là ai?;chuong_trinh_hoc
-Môn MAE101 có bao nhiêu tín chỉ?;chuong_trinh_hoc
-Phòng học môn CSI106 ở đâu?;chuong_trinh_hoc
-Điều kiện tiên quyết của môn DPL302m là gì?;chuong_trinh_hoc
-Môn học nào là môn tự chọn trong Term 7?;chuong_trinh_hoc
-Tôi muốn biết về môn AI Capstone Project (AIP491);chuong_trinh_hoc
-Thông tin về môn học Experiential Entrepreneurship 1 (EXE101);chuong_trinh_hoc
-Môn CEA201 học những gì?;chuong_trinh_hoc
-Giảng viên môn ITE303c tên gì?;chuong_trinh_hoc
-Môn VOV124 có mấy tín chỉ?;chuong_trinh_hoc
-Nội dung môn học ENW493c;chuong_trinh_hoc
-Môn học nào có mã là DAT301m?;chuong_trinh_hoc
-Tôi muốn tìm hiểu về môn học TMI101;chuong_trinh_hoc
-Tìm thông tin về môn học có mã `SWE201c`;chuong_trinh_hoc
-Môn học `REL301m` thuộc chuyên ngành nào?;chuong_trinh_hoc
-Học phí môn Discrete mathematics (MAD101) là bao nhiêu?;hoc_phi
-Môn SWE201c bao nhiêu tiền một tín chỉ?;hoc_phi
-Hạn nộp học phí học kỳ này là khi nào?;hoc_phi
-Tổng học phí học kỳ 5 của tôi;hoc_phi
-Số tiền học phí môn AI Capstone Project (AIP491) là bao nhiêu?;hoc_phi
-Học phí môn Data Structures and Algorithm with Python (CSD203);hoc_phi
-Tôi muốn tra cứu học phí của môn học tự chọn;hoc_phi
-Chi tiết học phí cho môn JPD113;hoc_phi
-Cách thức thanh toán học phí;hoc_phi
-Tôi có thể trả góp học phí không?;hoc_phi
-Tôi muốn xem bảng giá học phí theo số tín chỉ;hoc_phi
-Chi phí học môn Programming Fundamentals with Python (PFP191);hoc_phi
-Số tín chỉ của môn MAE101 là 3 thì học phí là bao nhiêu?;hoc_phi
-Thông tin về các khoản phí khác ngoài học phí;hoc_phi
-Học phí môn học lại được tính như thế nào?;hoc_phi
-Tôi đã nộp đủ học phí cho kỳ này chưa?;hoc_phi
-Cảm ơn bạn rất nhiều vì thông tin hữu ích;cam_on
-Cám ơn bạn đã giúp đỡ;cam_on
-Tôi đã có được lịch học rồi;cam_on
-Rất cảm ơn sự hỗ trợ của bạn;cam_on
-Cảm ơn nhé!;cam_on
-Cảm ơn vì đã kiểm tra điểm cho tôi;cam_on
-Tuyệt vời! Cảm ơn bạn;cam_on
-Tôi thực sự cảm kích sự giúp đỡ này;cam_on
-Cảm ơn vì đã cung cấp thông tin học phí;cam_on
-Tôi sẽ liên hệ lại nếu có thắc mắc;cam_on
-Bạn đã giải đáp thắc mắc của tôi;cam_on
-Thành thật cảm ơn;cam_on
-Cảm ơn về thông tin môn học;cam_on
-Cảm ơn bạn đã cập nhật lịch thi;cam_on
-Hẹn gặp lại sau nhé;tam_biet
-Chào tạm biệt!;tam_biet
-Tạm biệt nhé!;tam_biet
-Hẹn gặp lại bạn vào tuần sau;tam_biet
-Good bye bạn cóc;tam_biet
+Lịch học hôm nay của tôi là gì?;lich_hoc
+Cho tôi xem thời khóa biểu tuần này.;lich_hoc
+Ngày mai tôi có tiết học nào không?;lich_hoc
+TKB của tui tuần sau như thế nào?;lich_hoc
+Hôm nay tôi học môn gì và ở đâu?;lich_hoc
+Slot 1 thứ 2 tôi học môn gì?;lich_hoc
+Check dùm lịch học thứ 6 tuần này.;lich_hoc
+Lịch học chi tiết của tôi trong học kỳ này.;lich_hoc
+Tôi muốn biết lịch học của mình.;lich_hoc
+Lịch học của tôi có bị thay đổi không?;lich_hoc
+Môn PRF192 học vào thứ mấy?;lich_hoc
+Lịch học môn DBI202 là khi nào?;lich_hoc
+Tôi có lớp AIL303m vào buổi nào?;lich_hoc
+Môn ACC101 học mấy giờ?;lich_hoc
+Cho tôi biết giờ học của môn JPD112.;lich_hoc
+Lớp ADB201 học ở phòng nào?;lich_hoc
+Khi nào thì tôi học MAC101?;lich_hoc
+Lịch học của môn SWP491 là gì?;lich_hoc
+Tôi cần xem lịch học môn FIN202.;lich_hoc
+Môn MAS291 học buổi sáng hay buổi chiều?;lich_hoc
+Ai là giáo viên dạy môn PRF192?;lich_hoc
+Thầy cô nào phụ trách lớp AIL303m?;lich_hoc
+Giáo viên dạy tôi môn DBI202 tên gì?;lich_hoc
+Tôi muốn biết giảng viên của môn ACC101.;lich_hoc
+GV môn JPD112 là ai?;lich_hoc
+Lớp học của tôi có thầy/cô nào dạy?;lich_hoc
+Cho xin info giảng viên lớp MAC101.;lich_hoc
+Ai dạy môn SWP491 vậy?;lich_hoc
+Phòng học của môn PRF192 là phòng nào?;lich_hoc
+Tôi học DBI202 ở phòng nào?;lich_hoc
+Địa điểm học của lớp AIL303m là đâu?;lich_hoc
+Lớp ACC101 học ở tòa nhà nào?;lich_hoc
+Cho tôi biết phòng học của tiết 4 hôm nay.;lich_hoc
+Tôi phải đến phòng nào để học môn MAS291?;lich_hoc
+Lớp JPD112 học tại cơ sở nào?;lich_hoc
+Check địa điểm học của tôi ngày mai.;lich_hoc
+Tui muốn coi TKB cả tuần.;lich_hoc
+Lịch học của tôi có bị trùng không?;lich_hoc
+Lịch học môn PRF192 và DBI202 có kẹt nhau không?;lich_hoc
+Cho tui xin lịch học chi tiết của AIL303m tuần này.;lich_hoc
+Lịch học của tôi có thay đổi gì không, check dùm.;lich_hoc
+Khi nào thì tôi học bù?;lich_hoc
+Tôi muốn xem lịch học theo ngày.;lich_hoc
+Lịch học của tôi vào thứ 4 là gì?;lich_hoc
+Lớp ACC101 học từ mấy giờ đến mấy giờ?;lich_hoc
+Giờ học của tôi hôm nay bắt đầu lúc mấy giờ?;lich_hoc
+Tôi có phải học MAC101 online không?;lich_hoc
+Lịch học của tôi trong 7 ngày tới.;lich_hoc
+Lịch học của tôi có bị hủy không?;lich_hoc
+Lớp FIN202 học ở phòng nào? Tks.;lich_hoc
+Lịch học môn ADY201m tuần sau.;lich_hoc
+Giờ học của môn AIG201c là mấy giờ?;lich_hoc
+Tôi có lịch học môn DLP301m vào thứ 5 không?;lich_hoc
+Phòng học của môn FER201m là phòng nào?;lich_hoc
+Thầy cô dạy môn JPD123 là ai?;lich_hoc
+Lịch học KRL112 có bị dời không?;lich_hoc
+Tôi muốn xem lịch học chi tiết của môn SWD391.;lich_hoc
+Lịch học của tôi thứ 3 tuần tới.;lich_hoc
+Tôi có tiết học nào vào buổi tối không?;lich_hoc
+Lịch học của tôi trong tháng này.;lich_hoc
+Môn học nào tôi sẽ học vào slot 5?;lich_hoc
+Lịch học môn DGT201 có bị hoãn không?;lich_hoc
+Giảng viên môn EAW211 là ai vậy?;lich_hoc
+Phòng học của môn EBC301c ở đâu?;lich_hoc
+Lịch học môn ECR201 có thay đổi không?;lich_hoc
+Tôi muốn xem TKB của mình.;lich_hoc
+Lịch học môn EIT491 bắt đầu từ ngày nào?;lich_hoc
+Tôi muốn biết phòng học của môn ELC201.;lich_hoc
+Giờ học môn ELT301 là bao nhiêu?;lich_hoc
+Lịch học môn ENL111 có bị trùng với môn khác không?;lich_hoc
+Môn ENM101 học ở phòng nào?;lich_hoc
+Giáo viên môn ENP101 là ai?;lich_hoc
+Lịch học môn ENS411 vào thứ mấy?;lich_hoc
+Tôi có lịch học môn EPE101c vào thứ 7 không?;lich_hoc
+Lớp học môn FIM301 ở đâu?;lich_hoc
+Lịch học môn FIN303 có bị hủy không?;lich_hoc
+Tôi muốn xem lịch học của môn FRS401c.;lich_hoc
+Môn GDF101 học ở phòng nào?;lich_hoc
+Lịch học môn GLT301 có bị dời không?;lich_hoc
+Giảng viên môn HCM201 là ai?;lich_hoc
+Lịch học môn HOM202 có bị thay đổi không?;lich_hoc
+Tôi muốn biết phòng học môn HRM201c.;lich_hoc
+Lịch học môn IAA201 tuần này.;lich_hoc
+Môn IAP491 học ở đâu?;lich_hoc
+Giờ học môn IBI101 là mấy giờ?;lich_hoc
+Tôi có lịch học môn IMC301c vào ngày mai không?;lich_hoc
+Lịch học môn IMP301c có bị hoãn không?;lich_hoc
+Phòng học môn IOT102 là phòng nào?;lich_hoc
+Giáo viên môn JPD113 là ai?;lich_hoc
+Lịch học môn JPD123-EX có bị trùng không?;lich_hoc
+Tôi muốn xem TKB của môn JPD226.;lich_hoc
+Môn JPD316 học ở đâu?;lich_hoc
+Lịch học môn JPD326 có thay đổi không?;lich_hoc
+Giờ học môn JPD336 là mấy giờ?;lich_hoc
+Tôi có lịch học môn JPD346 vào thứ 2 không?;lich_hoc
+Phòng học môn JPE301 là phòng nào?;lich_hoc
+Giáo viên môn JPS111 là ai?;lich_hoc
+Lịch học môn JPS122 có bị hủy không?;lich_hoc
+Tôi muốn xem lịch học môn JPS211.;lich_hoc
+Môn JPS222 học ở đâu?;lich_hoc
+Lịch học môn JPS301 có bị dời không?;lich_hoc
+Giờ học môn KRL122 là mấy giờ?;lich_hoc
+Tôi có lịch học môn KRL212 vào thứ 6 không?;lich_hoc
+Phòng học môn KRL311 là phòng nào?;lich_hoc
+Giáo viên môn KRL421 là ai?;lich_hoc
+Lịch học môn KRL511 có bị trùng không?;lich_hoc
+Tôi muốn xem TKB của môn LAB211.;lich_hoc
+Môn LAB221c học ở đâu?;lich_hoc
+Lịch học môn LAW102 có bị thay đổi không?;lich_hoc
+Giờ học môn MAC102 là mấy giờ?;lich_hoc
+Tôi có lịch học môn MAD111 vào ngày mai không?;lich_hoc
+Phòng học môn MAS202 là phòng nào?;lich_hoc
+Giáo viên môn MCO201m là ai?;lich_hoc
+Lịch học môn MCP301m có bị hủy không?;lich_hoc
+Tôi muốn xem lịch học môn MKT204c.;lich_hoc
+Môn MKT308m học ở đâu?;lich_hoc
+Lịch học môn NWC202 có bị dời không?;lich_hoc
+Giờ học môn PRF193 là mấy giờ?;lich_hoc
+Tôi có lịch học môn PRO192c vào thứ 3 không?;lich_hoc
+Phòng học môn PRP201c là phòng nào?;lich_hoc
+Giáo viên môn SCM201m là ai?;lich_hoc
+Lịch học môn SDN301m có bị trùng không?;lich_hoc
+Tôi muốn xem TKB của môn SWD391c.;lich_hoc
+Môn SWP492 học ở đâu?;lich_hoc
+Lịch học môn SYB301c có bị thay đổi không?;lich_hoc
+Giờ học môn VNC103 là mấy giờ?;lich_hoc
+Tôi có lịch học môn WDU202c vào thứ 5 không?;lich_hoc
+Lịch học môn WDU203c tuần này.;lich_hoc
+Cho tôi biết lịch học của môn `AIL301b`.;lich_hoc
+Kiểm tra lịch học của tôi vào thứ 2.;lich_hoc
+hôm tới tôi có lịch thi môn gì;lich_thi
+Môn CSD203 có thi Practice Exam không?;lich_thi
+Môn CPV301 thi Final Exam hôm nào;lich_thi
+Cho tôi xem lịch thi FE cuối kì;lich_thi
+Lịch thi cuối kỳ của tôi là ngày nào?;lich_thi
+Khi nào có lịch thi chính thức?;lich_thi
+Tôi muốn biết ngày thi môn PRF192.;lich_thi
+Môn DBI202 thi vào thứ mấy?;lich_thi
+Lịch thi của môn AIL303m là khi nào?;lich_thi
+Phòng thi môn ACC101 ở đâu?;lich_thi
+Giờ thi môn JPD112 là mấy giờ?;lich_thi
+Tôi có phải thi Practice Exam môn SWP491 không?;lich_thi
+Lịch thi FE của tôi tuần này.;lich_thi
+Check dùm tôi lịch thi môn MAS291.;lich_thi
+Thông báo lịch thi cuối kỳ của tôi.;lich_thi
+Ngày thi môn ADY201m là ngày nào?;lich_thi
+Môn FIN202 thi ở phòng nào vậy?;lich_thi
+Hình thức thi môn DGT201 là gì?;lich_thi
+Tôi cần xem lịch thi chi tiết của môn EAW211.;lich_thi
+Lịch thi môn EBC301c có bị thay đổi không?;lich_thi
+Môn ECR201 thi vào ngày nào?;lich_thi
+Phòng thi cuối kỳ môn EIT491.;lich_thi
+Giờ thi môn ELC201 là mấy giờ?;lich_thi
+Lịch thi môn ELT301 có bị hoãn không?;lich_thi
+Môn ENL111 thi FE hay PE?;lich_thi
+Địa điểm thi môn ENM101.;lich_thi
+Tôi có lịch thi môn ENP101 vào buổi nào?;lich_thi
+Lịch thi môn ENS411 là khi nào?;lich_thi
+Môn EPE101c thi ở đâu?;lich_thi
+Khi nào tôi thi môn FIM301?;lich_thi
+Lịch thi môn FIN303 có bị hủy không?;lich_thi
+Phòng thi môn FRS401c là phòng nào?;lich_thi
+Môn GDF101 thi hình thức gì?;lich_thi
+Lịch thi môn GLT301 tuần sau.;lich_thi
+Giờ thi môn HCM201.;lich_thi
+Môn HOM202 có thi PE không?;lich_thi
+Lịch thi môn HRM201c là ngày nào?;lich_thi
+Phòng thi môn IAA201.;lich_thi
+Tôi thi môn IAP491 ở đâu?;lich_thi
+Lịch thi môn IBI101.;lich_thi
+Môn IMC301c thi FE hay PE?;lich_thi
+Lịch thi môn IMP301c.;lich_thi
+Phòng thi môn IOT102.;lich_thi
+Môn JPD113 thi ngày mấy?;lich_thi
+Lịch thi môn JPD123.;lich_thi
+Tôi muốn xem lịch thi môn AIL303m.;lich_thi
+Môn SSG104 thi ở đâu?;lich_thi
+Lịch thi môn ITE303c có bị dời không?;lich_thi
+Giờ thi môn JPD336 là mấy giờ?;lich_thi
+Môn JPD346 thi hình thức gì?;lich_thi
+Phòng thi môn JPE301.;lich_thi
+Lịch thi môn PFP191.;lich_thi
+Môn JPD113 có thi vấn đáp không?;lich_thi
+Tôi cần biết lịch thi môn PRF192.;lich_thi
+Môn JPS222 thi ở Lab nào?;lich_thi
+Giờ thi môn KRL122.;lich_thi
+Môn KRL212 thi khi nào?;lich_thi
+Phòng thi môn KRL311.;lich_thi
+Lịch thi môn KRL421.;lich_thi
+Môn KRL511 thi FE hay PE?;lich_thi
+Tôi muốn xem lịch thi môn LAB211.;lich_thi
+Môn LAB221c thi ở đâu?;lich_thi
+Lịch thi môn LAW102.;lich_thi
+Giờ thi môn MAC102.;lich_thi
+Môn MAD101 thi ngày nào?;lich_thi
+Phòng thi môn MAS202.;lich_thi
+Lịch thi môn MCO201m.;lich_thi
+Môn MCP301m có thi PE không?;lich_thi
+Tôi muốn xem lịch thi môn MKT204c.;lich_thi
+Môn MKT308m thi ở đâu?;lich_thi
+Lịch thi môn NWC202.;lich_thi
+Giờ thi môn PRF193.;lich_thi
+Môn PRO192c thi ngày mấy?;lich_thi
+Phòng thi môn PRP201c.;lich_thi
+Lịch thi môn SCM201m.;lich_thi
+Môn SDN301m có thi PE không?;lich_thi
+Tôi muốn xem lịch thi môn SWD391c.;lich_thi
+Môn SWP492 thi ở đâu?;lich_thi
+Lịch thi môn SYB301c.;lich_thi
+Giờ thi môn VNC103.;lich_thi
+Môn WDU202c thi ngày nào?;lich_thi
+Lịch thi môn WDU203c.;lich_thi
+Môn DBI202 có thi Practice Exam không?;lich_thi
+Khi nào thì có kết quả xếp phòng thi?;lich_thi
+Tôi có thể xem lịch thi trên FAP ở đâu?;lich_thi
+Tôi muốn xem lịch thi practice exam (PE) của các môn.;lich_thi
+Môn `DLP301m` thi cuối kỳ ngày nào?;lich_thi
+Lịch thi của môn `FER201m` là khi nào vậy?;lich_thi
+Môn `SWD391` thi tự luận hay trắc nghiệm?;lich_thi
+Thông tin về phòng thi môn `AIG201c`.;lich_thi
+Môn `DBM302m` có thi thực hành không?;lich_thi
+Ngày thi FE môn `REL301m`.;lich_thi
+Phòng thi môn `DAP391m` ở tòa nhà nào?;lich_thi
+Giờ thi chính thức môn `DAT301m`.;lich_thi
+Lịch thi của môn `AIL301b`.;lich_thi
+Check lịch thi FE môn `AIL302m`.;lich_thi
+Tôi có thi PE môn `ADB201` không?;lich_thi
+Lịch thi môn `AEE301` có thay đổi gì không?;lich_thi
+Môn `AET102c` thi vào ngày nào?;lich_thi
+Lịch thi của tôi trong 2 tuần tới.;lich_thi
+Tôi muốn kiểm tra tình trạng chuyên cần hiện tại.;diem_danh
+Tình trạng điểm danh của tôi trong học kỳ này là gì?;diem_danh
+Cho tôi biết số buổi vắng mặt của tôi.;diem_danh
+Tôi đã vắng bao nhiêu buổi học rồi?;diem_danh
+Attendance rate của tôi hiện tại là bao nhiêu?;diem_danh
+Tôi có bị cấm thi môn nào không?;diem_danh
+Làm sao để xem lịch sử điểm danh chi tiết?;diem_danh
+Môn PRF192 tôi đã nghỉ mấy buổi?;diem_danh
+Check dùm tôi xem môn DBI202 tôi có đủ chuyên cần không.;diem_danh
+Attendance môn AIL303m của tôi có đạt 80% không?;diem_danh
+Tôi có vượt quá 20% số buổi nghỉ chưa?;diem_danh
+Giới hạn số buổi vắng tối đa là bao nhiêu?;diem_danh
+Tôi có bị tính absent buổi học hôm trước không?;diem_danh
+Xem giúp tôi tổng số tiết vắng mặt trong tất cả các môn.;diem_danh
+Tui muốn check điểm danh môn ACC101.;diem_danh
+Tôi còn được phép nghỉ bao nhiêu buổi nữa?;diem_danh
+Phần trăm chuyên cần của tôi có đủ điều kiện thi không?;diem_danh
+Môn VOV101 tôi vắng 4 buổi thì có bị cấm thi không?;diem_danh
+Làm ơn cho tôi biết tình trạng điểm danh của tôi trên FAP.;diem_danh
+Tôi có thể xem chi tiết các buổi tôi đã vắng ở đâu?;diem_danh
+Tôi đã absent bao nhiêu phần trăm môn ENL111?;diem_danh
+Tình trạng chuyên cần môn MAC101 của tôi là bao nhiêu?;diem_danh
+Tôi có bị cảnh cáo về việc nghỉ học không?;diem_danh
+Số buổi vắng không phép của tôi là bao nhiêu?;diem_danh
+Tôi muốn xem lại các lần điểm danh gần nhất.;diem_danh
+Môn học nào tôi đang có nguy cơ bị cấm thi?;diem_danh
+Check xem tôi đã nghỉ tổng cộng bao nhiêu giờ học.;diem_danh
+Thông tin điểm danh môn học kỳ này.;diem_danh
+Tôi đã nghỉ 2 buổi môn PRF192, có sao không?;diem_danh
+Điểm danh môn DBI202 của tôi có vấn đề gì không?;diem_danh
+Tui có đủ attendance để thi cuối kỳ không?;diem_danh
+Môn AIL303m tôi được vắng tối đa bao nhiêu buổi?;diem_danh
+Tôi đã vắng mặt có phép bao nhiêu lần?;diem_danh
+Làm sao để biết tôi có bị cấm thi môn nào không?;diem_danh
+Cho tôi xem bảng tổng hợp chuyên cần.;diem_danh
+Môn ACC101 tôi còn bao nhiêu % attendance?;diem_danh
+Tôi có bị trừ điểm chuyên cần vì nghỉ học không?;diem_danh
+Tình trạng attendance của tôi có đạt yêu cầu không?;diem_danh
+Tôi đã nghỉ học quá số lần quy định chưa?;diem_danh
+Check nhanh điểm danh của tôi.;diem_danh
+Liệu tôi có bị rớt môn do nghỉ quá nhiều không?;diem_danh
+Số buổi vắng mặt của tôi trong môn CSI106.;diem_danh
+Tôi có cần làm đơn xin phép cho buổi vắng mặt đó không?;diem_danh
+Tui muốn biết chi tiết điểm danh từng buổi học.;diem_danh
+Phần trăm vắng mặt môn ENL111 là bao nhiêu?;diem_danh
+Tôi đã nghỉ tổng cộng bao nhiêu buổi học chính thức?;diem_danh
+Cập nhật tình trạng điểm danh mới nhất của tôi.;diem_danh
+Môn MAC101 tôi đã vắng 10 tiết, có bị cấm thi không?;diem_danh
+Tôi có bị tính vắng mặt khi đi trễ không?;diem_danh
+Tôi đã nghỉ 1 buổi môn ACC101, còn bao nhiêu buổi nữa?;diem_danh
+Kiểm tra xem tôi có bị miss buổi nào không.;diem_danh
+Tôi có bị cấm thi môn nào trong kỳ này không?;diem_danh
+Thông tin chuyên cần của sinh viên.;diem_danh
+Môn DBI202 tôi đã vắng 15% rồi, có nguy hiểm không?;diem_danh
+Tôi có thể xem lý do vắng mặt của mình ở đâu?;diem_danh
+Attendance môn AIL303m của tôi là 75%, có sao không?;diem_danh
+Tôi cần đạt tối thiểu bao nhiêu % chuyên cần?;diem_danh
+Tình trạng điểm danh của tôi có ảnh hưởng đến điểm cuối kỳ không?;diem_danh
+Tôi muốn xác nhận lại việc điểm danh môn PRF192.;diem_danh
+Số buổi vắng mặt không phép của tôi là bao nhiêu?;diem_danh
+Tôi có bị trừ điểm vì vắng mặt không phép không?;diem_danh
+Check dùm tui coi còn đủ điều kiện thi môn SE101 không.;diem_danh
+Tôi đã nghỉ bao nhiêu buổi có lý do chính đáng?;diem_danh
+Làm ơn cho tôi biết giới hạn vắng mặt cho môn học 3 tín chỉ.;diem_danh
+Tôi có thể xem chi tiết các buổi vắng mặt trên FAP không?;diem_danh
+Tình trạng chuyên cần của tôi có được cập nhật chưa?;diem_danh
+Môn ENL111 tôi đã vắng 5 buổi, có bị cấm thi không?;diem_danh
+Tôi muốn xem lại thông tin điểm danh của học kỳ trước.;diem_danh
+Check xem tôi có bị tính absent nhầm buổi nào không.;diem_danh
+Tôi có bị cấm thi môn MAC101 không?;diem_danh
+Tôi đã nghỉ tổng cộng bao nhiêu buổi học trong kỳ này?;diem_danh
+Tui cần check xem mình có bị cấm thi môn ACC101 không.;diem_danh
+Phần trăm chuyên cần tối thiểu để được thi là 80% đúng không?;diem_danh
+Tôi đã vắng mặt 3 lần môn DBI202, còn được nghỉ nữa không?;diem_danh
+Thông tin về việc cấm thi do vắng mặt.;diem_danh
+Tôi có bị tính vắng mặt khi xin nghỉ có phép không?;diem_danh
+Tình trạng điểm danh môn AIL303m của tôi.;diem_danh
+Làm sao để xem tổng số buổi học của một môn?;diem_danh
+Tôi muốn kiểm tra xem buổi vắng mặt của tôi đã được duyệt chưa.;diem_danh
+Check dùm tui tổng số buổi nghỉ học.;diem_danh
+Tôi có thể xem attendance report ở đâu?;diem_danh
+Môn PRF192 tôi đã vắng 18% rồi, có sao không?;diem_danh
+Tôi có bị cấm thi môn nào vì attendance thấp không?;diem_danh
+Tình trạng chuyên cần của tôi có đang ở mức báo động không?;diem_danh
+Tôi muốn biết số buổi vắng mặt còn lại của mình.;diem_danh
+Check xem tôi có bị cấm thi môn SE101 không, tks.;diem_danh
+Tôi đã nghỉ 2 buổi môn ACC101, có bị cấm thi không?;diem_danh
+Làm ơn cho tôi biết chi tiết điểm danh môn ENL111.;diem_danh
+Tôi có bị tính vắng mặt khi nghỉ ốm không?;diem_danh
+Tôi muốn xem tổng số buổi vắng mặt có phép.;diem_danh
+Thông tin điểm danh môn MAC101.;diem_danh
+Attendance của tôi có đủ để qua môn DBI202 không?;diem_danh
+Tôi đã vắng 1 buổi môn AIL303m, còn bao nhiêu buổi nữa?;diem_danh
+Quy định về việc cấm thi do vắng mặt là gì?;diem_danh
+Tôi có thể nộp giấy tờ chứng minh cho buổi vắng mặt ở đâu?;diem_danh
+Check xem tôi có bị cấm thi môn nào trong học kỳ này không.;diem_danh
+Tôi đã nghỉ 5 buổi, có bị cấm thi không?;diem_danh
+Tình trạng chuyên cần của tôi có đạt 80% không?;diem_danh
+Tôi muốn xem lại các buổi tôi đã đi học đầy đủ.;diem_danh
+Môn PRF192 tôi vắng 1 buổi, có cần lo lắng không?;diem_danh
+Tôi có bị tính vắng mặt khi tham gia hoạt động ngoại khóa không?;diem_danh
+Làm ơn cho tôi biết số buổi vắng mặt tối đa cho môn học.;diem_danh
+Tui muốn check attendance của mình.;diem_danh
+Tôi đã nghỉ 19% môn DBI202, còn 1% nữa thôi đúng không?;diem_danh
+Check info điểm danh môn ACC101.;diem_danh
+Tôi có bị cấm thi môn SE101 không, check gấp.;diem_danh
+Attendance môn AIL303m của tôi có ổn không?;diem_danh
+Tôi muốn biết chi tiết các buổi vắng mặt không phép.;diem_danh
+Tôi đã vắng mặt 6 buổi, có bị cấm thi không?;diem_danh
+Tình trạng điểm danh của tôi có đủ điều kiện để thi không?;diem_danh
+Làm sao để xem điểm danh trên FAP?;diem_danh
+Tôi có bị cấm thi môn MAC101 không, check dùm.;diem_danh
+Thông tin về việc vắng mặt quá giới hạn.;diem_danh
+Tôi đã nghỉ 20% môn ENL111, tôi có bị cấm thi không?;diem_danh
+Xin hỏi điểm tổng kết học kỳ này của tôi là bao nhiêu?;diem_so
+Điểm môn PRF192 của tui ra chưa?;diem_so
+Check dùm điểm lab DBI202 cái.;diem_so
+Điều kiện để qua môn là gì ạ?;diem_so
+GPA hiện tại của mình là bao nhiêu rồi?;diem_so
+Điểm final AIL303m có chưa?;diem_so
+Tôi muốn xem chi tiết điểm thành phần của các môn.;diem_so
+Môn ACC101 điểm trung bình bao nhiêu thì pass?;diem_so
+Show điểm tất cả các môn đã học.;diem_so
+Điểm chuyên cần môn MAC101 tính sao?;diem_so
+Điểm danh có tính vào điểm thành phần không?;diem_so
+Điểm giữa kỳ môn DGT201 chiếm bao nhiêu phần trăm?;diem_so
+Điểm thi cuối kỳ môn FIN202 của tôi là bao nhiêu?;diem_so
+Tôi có bị 0 điểm thành phần nào không?;diem_so
+Điểm assignment môn SE211 được cập nhật chưa?;diem_so
+Điểm lab 1 môn PRJ101 của tôi là mấy?;diem_so
+Điểm Progress test 2 môn AIL303m là bao nhiêu vậy?;diem_so
+Tỉ trọng điểm thi cuối kỳ môn MAS291 là 40% đúng không?;diem_so
+Tính lại GPA sau khi có điểm mới.;diem_so
+CPA của tôi có thay đổi gì không?;diem_so
+Điểm tích lũy hiện tại của tôi là bao nhiêu?;diem_so
+Cách tính điểm trung bình môn học.;diem_so
+Vui lòng cung cấp bảng điểm chi tiết.;diem_so
+Điểm trung bình học kỳ vừa rồi của tui là bao nhiêu?;diem_so
+GPA kỳ này có cao hơn kỳ trước không?;diem_so
+Em rớt môn PRF192 rồi hả?;diem_so
+Điểm pass môn DBI202 là 5.0 đúng không?;diem_so
+Tôi có đạt đủ điều kiện qua môn ACC101 không?;diem_so
+Điểm final phải trên 4.0 mới qua môn hả?;diem_so
+Nếu điểm thành phần bị 0 thì có bị rớt không?;diem_so
+Xin xác nhận lại điều kiện qua môn học.;diem_so
+Môn MAC101 tui được 4.5 final, có pass không?;diem_so
+Điểm PRF192 ra chưa bạn cóc?;diem_so
+Check điểm AIL303m nhanh dùm tui.;diem_so
+Tks, cho xin info điểm DBI202.;diem_so
+Điểm của tui bị sai thì phải làm sao?;diem_so
+Điểm thi resit môn FIN202 có tính vào GPA không?;diem_so
+Điểm MAS291 của tui bị nhầm rồi.;diem_so
+Điểm trung bình môn ECO111 của tôi là bao nhiêu?;diem_so
+Điểm PRJ301 có bị làm tròn ko?;diem_so
+Điểm chuyên cần (attendance) môn SSG104 của tôi là mấy?;diem_so
+Điểm LAB211 của tui đâu rồi?;diem_so
+Điểm PRF192 ra chưa vại?;diem_so
+Điểm SWT301 có cần phải trên 5.0 ko?;diem_so
+Điểm thi lại môn DBI202 có cao hơn lần 1 không?;diem_so
+Điểm ACC101 của tui có bị F không?;diem_so
+Điểm tổng kết môn MGT101 là bao nhiêu?;diem_so
+Check điểm AIL303m cho tui với.;diem_so
+Điểm thi cuối kỳ môn MAC101 của tôi là 6.0, pass chưa?;diem_so
+Điểm trung bình tích lũy (CPA) của tôi là bao nhiêu?;diem_so
+Điểm tổng kết môn ACC101 được tính như thế nào?;diem_so
+Điểm thi resit môn PRF192 có được công bố chưa?;diem_so
+Điểm giữa kỳ môn DBI202 chiếm bao nhiêu %?;diem_so
+Tôi muốn xem bảng điểm chi tiết của học kỳ 5.;diem_so
+Điểm final môn AIL303m của tôi là 3.9, tôi có phải học lại không?;diem_so
+Em muốn biết điểm thành phần của môn FIN202.;diem_so
+Điểm trung bình học kỳ này của tôi là bao nhiêu?;diem_so
+Điểm MAS291 bị lag chưa ra hả?;diem_so
+Vui lòng tra cứu điểm thi cuối kỳ môn ECO111.;diem_so
+Điểm danh có ảnh hưởng đến điểm tổng kết không?;diem_so
+Tui muốn xem điểm chi tiết từng cột điểm môn PRJ301.;diem_so
+Điểm Lab 3 môn LAB211 của tôi là mấy?;diem_so
+Điểm SWT301 có bị rớt không?;diem_so
+Xin cung cấp quy tắc tính điểm qua môn.;diem_so
+Điểm thi cuối kỳ Resit môn ACC101 của tôi là bao nhiêu?;diem_so
+Điểm Assignment môn MGT101 có quan trọng không?;diem_so
+Điểm trung bình môn PRF192 của tôi là 4.9, có pass không?;diem_so
+Điểm DBI202 ra lẹ đi.;diem_so
+Tôi cần xem điểm GPA để xét học bổng.;diem_so
+Điểm Progress test 1 môn AIL303m là bao nhiêu?;diem_so
+Điểm thi cuối kỳ môn MAC101 phải trên 4.0 mới qua đúng không?;diem_so
+Điểm FIN202 của em bị sai rùi.;diem_so
+Tôi muốn xem điểm của tất cả các môn đã học.;diem_so
+Điểm trung bình môn MAS291 của tôi là 5.1, nhưng điểm final 3.5, có rớt không?;diem_so
+Cấu trúc tính điểm môn ECO111 là gì?;diem_so
+Điểm tổng kết môn PRJ301 được làm tròn như thế nào?;diem_so
+Điểm chuyên cần môn LAB211 là 10% đúng không?;diem_so
+Điểm SWT301 có bị 0 cột nào không?;diem_so
+Điểm thi lại môn ACC101 có thay thế điểm cũ không?;diem_so
+Khi nào điểm chính thức môn MGT101 được công bố?;diem_so
+Điểm trung bình tích lũy của tôi có bị hạ không?;diem_so
+Điểm PRF192 của tôi là 5.0, có pass không?;diem_so
+Điểm DBI202 có cần check lại không?;diem_so
+Tôi muốn xem điểm chi tiết từng cột điểm môn AIL303m.;diem_so
+Điểm tổng kết môn FIN202 của tôi là bao nhiêu?;diem_so
+Điểm thi cuối kỳ môn MAS291 là 40% đúng không?;diem_so
+Tui muốn biết điểm Progress test 1 và 2 môn ECO111.;diem_so
+Điểm PRJ301 ra chưa, hóng quá.;diem_so
+Vui lòng hiển thị điểm GPA của tôi.;diem_so
+Điểm Lab 4 môn LAB211 của tôi là mấy?;diem_so
+Điểm thi cuối kỳ môn SWT301 là 4.1, có pass không?;diem_so
+Điểm ACC101 của tui có bị chấm nhầm không?;diem_so
+Tôi muốn tra cứu điểm thi Resit.;diem_so
+Điểm trung bình môn MGT101 có tính cả điểm chuyên cần không?;diem_so
+Điểm PRF192 của tôi là 6.0, chắc chắn pass rồi chứ?;diem_so
+Điểm DBI202 có bị 0 điểm attendance không?;diem_so
+Xin hỏi về quy định điểm tối thiểu để qua môn.;diem_so
+Điểm final môn AIL303m của tôi là 4.0, có pass không?;diem_so
+Check điểm FIN202 cho tui lẹ lên.;diem_so
+Điểm thi cuối kỳ môn ACC101 là bao nhiêu?;diem_so
+Điểm trung bình môn PRF192 của tôi là 5.5, có pass không?;diem_so
+Điểm thi lại môn DBI202 được tính như thế nào?;diem_so
+Tôi có cần đạt điểm tối thiểu cho từng cột điểm không?;diem_so
+Điểm tổng kết môn AIL303m được làm tròn không?;diem_so
+Điểm thành phần môn FIN202 bao gồm những gì?;diem_so
+Điểm Progress test 1 và Progress test 2 môn MAS291 chiếm bao nhiêu %?;diem_so
+Điểm trung bình môn ECO111 của tôi có đủ qua môn không?;diem_so
+Điểm Lab 5 môn LAB211 của tôi là bao nhiêu?;diem_so
+Điểm SWT301 của tôi có bị 0 điểm thi cuối kỳ không?;diem_so
+Tôi muốn xem lại điểm thi cuối kỳ môn ACC101.;diem_so
+Điểm trung bình môn MGT101 là 7.0, tôi có pass không?;diem_so
+Điểm GPA của tôi có bị ảnh hưởng bởi môn học lại không?;diem_so
+Điểm môn PRF192 đã được nhập lên FAP chưa?;diem_so
+Điểm DBI202 có bị rớt vì điểm final thấp không?;diem_so
+Tôi muốn biết điểm cụ thể của bài Assignment môn AIL303m.;diem_so
+Điểm thi cuối kỳ Resit môn FIN202 có thay thế điểm cũ không?;diem_so
+Điểm trung bình môn MAS291 là 4.8, tôi có phải thi lại không?;diem_so
+Điểm thi cuối kỳ môn ECO111 phải trên 4.0 đúng không?;diem_so
+Điểm Lab 6 môn LAB211 của tôi là mấy?;diem_so
+Điểm tổng kết môn SWT301 của tôi là bao nhiêu?;diem_so
+Tôi có thể xem bảng điểm học kỳ 4 ở đâu?;diem_so
+Điểm trung bình tích lũy hiện tại của tôi là bao nhiêu?;diem_so
+Điểm thi final môn PRF192 của tôi là 3.0, tôi có rớt không?;diem_so
+Điểm DBI202 của tôi có cột điểm nào bị 0 không?;diem_so
+Điểm chuyên cần môn AIL303m có bị trừ nếu nghỉ học không?;diem_so
+Điểm thi cuối kỳ môn FIN202 là 4.5, tôi có pass không?;diem_so
+Điểm trung bình môn MAS291 có được làm tròn không?;diem_so
+Điểm Progress test môn ECO111 của tôi là mấy?;diem_so
+Tôi muốn xem điểm chi tiết môn PRJ301.;diem_so
+Điểm Lab 2 môn LAB211 của tôi là bao nhiêu?;diem_so
+Điểm SWT301 của tôi có bị 0 điểm giữa kỳ không?;diem_so
+Điểm thi lại môn ACC101 có được tính vào GPA không?;diem_so
+Điểm trung bình môn MGT101 của tôi là 5.0, có pass không?;diem_so
+Điểm GPA của tôi có bị thay đổi sau khi thi resit không?;diem_so
+Điểm môn PRF192 đã được công bố chính thức chưa?;diem_so
+Điểm DBI202 của tôi là 5.0, có pass không?;diem_so
+Điểm final môn AIL303m của tôi là 5.0, có pass không?;diem_so
+Điểm thi cuối kỳ môn FIN202 là 3.9, tôi có phải học lại không?;diem_so
+Điểm trung bình môn MAS291 là 5.0, có pass không?;diem_so
+Điểm thi cuối kỳ Resit môn ECO111 là bao nhiêu?;diem_so
+Điểm Lab 1 môn LAB211 của tôi là bao nhiêu?;diem_so
+Điểm SWT301 của tôi có bị 0 điểm Lab không?;diem_so
+Điểm thi cuối kỳ môn ACC101 là 4.0, tôi có pass không?;diem_so
+Điểm trung bình môn MGT101 là 4.9, tôi có phải thi lại không?;diem_so
+Điểm GPA của tôi có bị ảnh hưởng bởi điểm thi lại không?;diem_so
+Điểm môn PRF192 của tôi là 4.0, có pass không?;diem_so
+Điểm DBI202 của tôi có bị rớt vì điểm trung bình thấp không?;diem_so
+Điểm chuyên cần môn AIL303m của tôi là mấy?;diem_so
+Điểm thi cuối kỳ môn FIN202 là 4.1, tôi có pass không?;diem_so
+Điểm trung bình môn MAS291 là 5.5, có pass không?;diem_so
+Điểm Progress test 2 môn ECO111 của tôi là mấy?;diem_so
+Điểm Lab 3 môn LAB211 của tôi là bao nhiêu?;diem_so
+Điểm SWT301 của tôi có bị 0 điểm Assignment không?;diem_so
+Điểm trung bình môn MGT101 là 6.0, có pass không?;diem_so
+Điểm GPA của tôi có bị thay đổi sau khi học lại không?;diem_so
+Điểm môn PRF192 của tôi là 5.1, có pass không?;diem_so
+Điểm DBI202 của tôi là 4.9, có phải thi lại không?;diem_so
+Điểm final môn AIL303m của tôi là 4.5, có pass không?;diem_so
+Điểm thi cuối kỳ môn FIN202 là 3.5, tôi có phải học lại không?;diem_so
+Điểm trung bình môn MAS291 là 4.9, tôi có phải thi lại không?;diem_so
+Điểm thi cuối kỳ Resit môn ECO111 là 4.0, tôi có pass không?;diem_so
+Tôi muốn xem điểm chi tiết từng cột điểm môn PRJ301.;diem_so
+Điểm Lab 4 môn LAB211 của tôi là bao nhiêu?;diem_so
+Điểm SWT301 của tôi có bị 0 điểm Progress test không?;diem_so
+Điểm thi cuối kỳ môn ACC101 là 3.9, tôi có phải học lại không?;diem_so
+Điểm trung bình môn MGT101 là 5.1, có pass không?;diem_so
+Điểm GPA của tôi có bị ảnh hưởng bởi điểm 0 thành phần không?;diem_so
+Học phí môn PRF192 là bao nhiêu tiền?;hoc_phi
+Giá tiền học môn DBI202 là bao nhiêu?;hoc_phi
+Cho em hỏi học phí của môn AIL303m ạ.;hoc_phi
+Check dùm tui học phí môn PRO192c kì này.;hoc_phi
+Học phí cho môn SWE101 là bao nhiêu vậy bạn cóc?;hoc_phi
+Môn MAC101 3 tín chỉ thì học phí tổng cộng là bao nhiêu?;hoc_phi
+Tui muốn biết học phí môn ENT401 kì này.;hoc_phi
+Học phí môn JPD112 là 5,520,000 đúng không?;hoc_phi
+Học phí CSI104 là bao nhiêu?;hoc_phi
+Em cần xem thông tin học phí của môn MAS291.;hoc_phi
+Học phí môn ACC101 là 5tr520k phải không?;hoc_phi
+Cho tui xin info học phí của môn SWP491.;hoc_phi
+Học phí cho môn JPD326 là bao nhiêu?;hoc_phi
+Học phí môn DLP301m là bao nhiêu tiền?;hoc_phi
+Giá môn FIN202 là bao nhiêu?;hoc_phi
+Nếu tui rớt môn PRF192 thì học lại phải đóng bao nhiêu %?;hoc_phi
+Học lại môn DBI202 do trượt thì học phí giảm 50% đúng không?;hoc_phi
+Học phí học lại môn AIL303m là bao nhiêu?;hoc_phi
+Học lại môn MAC101 có được giảm 50% học phí không?;hoc_phi
+Học phí học lại môn PRO192c là 50% hay 100%?;hoc_phi
+Tui bị rớt môn SWE101, học phí học lại tính sao?;hoc_phi
+Học phí cho môn học lại là 50% của môn gốc à?;hoc_phi
+Môn MAS291 tui rớt, học lại đóng nửa tiền hả?;hoc_phi
+Học phí học lại môn FIN202 là bao nhiêu nếu tui rớt?;hoc_phi
+Học lại môn ENT401 do không đạt thì học phí là bao nhiêu?;hoc_phi
+Quy định về giảm 50% học phí khi học lại môn trượt là gì?;hoc_phi
+Học phí học lại môn JPD112 là bao nhiêu?;hoc_phi
+Học lại môn CSI104 thì tui phải đóng 50% học phí gốc đúng không?;hoc_phi
+Học phí học lại môn ACC101 nếu tui bị điểm F.;hoc_phi
+Học lại môn SWP491 có được giảm học phí không?;hoc_phi
+Học phí học lại môn DLP301m là bao nhiêu?;hoc_phi
+Nếu tui học lại môn CF101 thì học phí là 50% của 5,520,000 VND à?;hoc_phi
+Học lại môn PRJ301 do rớt thì đóng bao nhiêu tiền?;hoc_phi
+Học phí học lại môn SSG101 tính theo quy tắc 50% như thế nào?;hoc_phi
+Tui rớt môn VOV114, học lại có giảm phí không?;hoc_phi
+Học lại môn MA101 do trượt thì phí là bao nhiêu?;hoc_phi
+Cho em hỏi về chính sách học phí học lại môn DBI201.;hoc_phi
+Học phí học lại môn PRF193 nếu tui bị trượt.;hoc_phi
+Học lại môn PRO191 có được giảm 50% không?;hoc_phi
+Phí học lại môn MAC102 là bao nhiêu?;hoc_phi
+Nếu vi phạm quy chế thi môn PRF192 thì học phí học lại là 100% đúng không?;hoc_phi
+Học phí học lại môn DBI202 do vi phạm thi cử là bao nhiêu?;hoc_phi
+Vi phạm quy chế thi lần đầu thì học phí học lại tính 100% hả?;hoc_phi
+Học phí học lại môn AIL303m nếu bị kỷ luật thi là bao nhiêu?;hoc_phi
+Nếu vi phạm quy chế thi lần 2 thì học phí học lại là 200% phải không?;hoc_phi
+Học phí học lại môn SWE101 nếu bị bắt gian lận thi.;hoc_phi
+Quy định về học phí 200% khi vi phạm quy chế thi các kì sau.;hoc_phi
+Tui vi phạm quy chế thi môn MAS291, học phí học lại là bao nhiêu?;hoc_phi
+Học phí học lại môn FIN202 do vi phạm quy chế thi là 100%?;hoc_phi
+Vi phạm quy chế thi lần thứ 3 thì học phí học lại là 200% của môn nào?;hoc_phi
+Học phí học lại 100% áp dụng cho trường hợp nào?;hoc_phi
+Học phí học lại môn JPD112 nếu bị đình chỉ thi.;hoc_phi
+Phí học lại môn CSI104 do vi phạm quy chế thi.;hoc_phi
+Học phí 200% cho môn học lại áp dụng như thế nào?;hoc_phi
+Nếu tui bị 2 lần vi phạm quy chế thi, học phí học lại tính 200% à?;hoc_phi
+Học lại môn ACC101 do vi phạm thi thì đóng 100% hay 200%?;hoc_phi
+Học phí học lại môn SWP491 nếu bị cấm thi.;hoc_phi
+Mức học phí 200% áp dụng từ kì nào sau khi vi phạm?;hoc_phi
+Học phí học lại môn DLP301m nếu vi phạm lần 2.;hoc_phi
+Vi phạm quy chế thi lần 1, học phí học lại môn PRJ301 là bao nhiêu?;hoc_phi
+Học phí học lại môn SSG101 nếu bị bắt chép bài.;hoc_phi
+Quy định về học phí học lại 100% do vi phạm.;hoc_phi
+Học phí học lại môn MAD101 nếu vi phạm quy chế.;hoc_phi
+Học phí học lại môn DBI201 nếu bị 2 lần vi phạm quy chế thi.;hoc_phi
+Học phí học lại môn PRF193 nếu vi phạm quy chế thi lần 2.;hoc_phi
+Học phí 1 tín chỉ của sinh viên là bao nhiêu?;hoc_phi
+Làm sao để check học phí các môn đã đăng ký trên FAP?;hoc_phi
+Học phí môn CSI106 là 3 tín chỉ, tổng cộng bao nhiêu tiền?;hoc_phi
+Học phí cho sinh viên quốc tế có khác sinh viên Việt Nam không?;hoc_phi
+Tui muốn xem chi tiết học phí của kì này.;hoc_phi
+Học phí môn ENT101 là 12,050,000 VND đúng không?;hoc_phi
+Khi nào là hạn chót đóng học phí kì này?;hoc_phi
+Tình trạng thanh toán học phí của tui đã được cập nhật chưa?;hoc_phi
+Học phí môn AET101 2 tín chỉ là bao nhiêu?;hoc_phi
+Làm sao để biết học phí môn ACC302?;hoc_phi
+Học phí môn AIP491 10 tín chỉ là bao nhiêu?;hoc_phi
+Học phí tính theo tín chỉ hay tính theo môn học?;hoc_phi
+Học phí môn DBI201 là 7,360,000 VND phải không?;hoc_phi
+Cho em hỏi cách tra cứu học phí trên FAP.;hoc_phi
+Học phí môn JPD113 là bao nhiêu?;hoc_phi
+Học phí môn LUK1 là bao nhiêu?;hoc_phi
+Tui muốn biết tổng học phí phải đóng cho kì Fall 2024.;hoc_phi
+Học phí cho môn học 6 tín chỉ như JPD122 là bao nhiêu?;hoc_phi
+Học phí môn VOV112 1 tín chỉ là bao nhiêu?;hoc_phi
+Check giùm tui xem tui còn nợ học phí môn nào không.;hoc_phi
+Học phí môn MLN121 5 tín chỉ là bao nhiêu?;hoc_phi
+Hạn đóng học phí kì này là ngày nào?;hoc_phi
+Học phí môn PRO192 là bao nhiêu tiền?;hoc_phi
+Học phí môn SSG104 là 5,520,000 VND đúng không?;hoc_phi
+Em muốn xem bảng giá học phí chi tiết các môn.;hoc_phi
+Học phí môn ITE303c là bao nhiêu?;hoc_phi
