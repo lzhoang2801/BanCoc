@@ -50,9 +50,6 @@ Các câu đã được tiền xử lý được chuyển đổi thành vector s
 
 Biến mục tiêu `intent` sẽ được mã hoá bằng **LabelEncoder** để đảm bảo yêu cầu đầu ra của mô hình Machine Learning. 
 
-* Vậy sao lại không sử dụng **One Hot Encoding** cho các giá trị nominal categorical ở `intent` mà lại dùng **LabelEncoder**?
-    * Bởi do sự khác biệt giữa chiến lược mã hoá cho biến mục tiêu và cho biến đặc trưng. Mục tiêu ở đây chi cần diễn giải đơn giản là các mã định dang duy nhất cho mỗi lớp riêng biệt mà không phải để mô hình học trên nó.
-
 *4) Training & Classification:*
 
 Dữ liệu được chia thành tập huấn luyện (80%) và tập kiểm thử (20%). Các vector TF-IDF từ tập huấn luyện được sử dụng để đào tạo bốn mô hình Machine Learning:
